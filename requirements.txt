@@ -1,0 +1,8 @@
+requests==2.31.0
+ollama==0.1.9
+pywin32==306
+Pillow==10.1.0
+PyQt6==6.6.1
+python-dotenv==1.0.0
+# Phase 1: Technical Core
+# (No additional dependencies - using stdlib: sqlite3, json, logging, dataclasses, enum)

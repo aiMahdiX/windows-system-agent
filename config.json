@@ -1,0 +1,69 @@
+{
+  "ollama": {
+    "model": "gemini-3-flash-preview:latest",
+    "base_url": "http://localhost:11434",
+    "temperature": 0.7,
+    "timeout": 60,
+    "enabled_models": [
+      "mistral",
+      "llama2",
+      "neural-chat",
+      "orca-mini"
+    ]
+  },
+  "system": {
+    "language": "en",
+    "auto_confirm": false,
+    "max_history": 50,
+    "theme": "default"
+  },
+  "features": {
+    "background_change": true,
+    "brightness_control": true,
+    "volume_control": true,
+    "app_launcher": true,
+    "wifi_control": true,
+    "system_info": true
+  },
+  "colors": {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "blue": "#0000FF",
+    "red": "#FF0000",
+    "green": "#00FF00",
+    "yellow": "#FFFF00",
+    "orange": "#FFA500",
+    "purple": "#800080",
+    "pink": "#FFC0CB",
+    "dark": "#1a1a1a",
+    "light": "#F5F5F5"
+  },
+  "applications": {
+    "notepad": "notepad",
+    "calculator": "calc",
+    "calc": "calc",
+    "paint": "mspaint",
+    "file_manager": "explorer",
+    "explorer": "explorer",
+    "word": "winword",
+    "excel": "excel"
+  },
+  "shortcuts": {
+    "background_colors": [
+      "blue",
+      "red",
+      "green"
+    ],
+    "apps": [
+      "notepad",
+      "calculator",
+      "file_manager"
+    ],
+    "brightness_presets": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}
