@@ -2,8 +2,9 @@
 
 > An intelligent AI-powered system control assistant for Windows using natural language commands powered by Ollama
 
+<img width="902" height="732" alt="Screenshot 2026-02-06 151516" src="https://github.com/user-attachments/assets/91eaa71d-4dc7-4e4a-89b6-a75b6086887a" />
 
-![Uploading Screenshot 2026-02-06 151516.png…]()
+
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
