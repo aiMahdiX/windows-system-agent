@@ -1,6 +1,8 @@
 # Windows System Agent
 
 > An intelligent AI-powered system control assistant for Windows using natural language commands powered by Ollama
+
+
 ![Uploading Screenshot 2026-02-06 151516.png…]()
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
